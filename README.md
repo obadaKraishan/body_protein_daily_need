@@ -78,7 +78,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Contributors
 - [Obada Kraishan](https://github.com/obadaKraishan)
 
-![Home Screen](screenshots/home_screen.png)
-
-### Result Screen
-![Result Screen](screenshots/result_screen.png)
