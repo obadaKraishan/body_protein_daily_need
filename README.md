@@ -33,8 +33,8 @@ Follow these steps to set up the project locally:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/obadaKraishan/BodyProteinDailyNeed.git
-cd BodyProteinDailyNeed
+git clone https://github.com/obadaKraishan/body_protein_daily_need.git
+cd body_protein_daily_need
 ```
 
 ### 2. Install Dependencies
@@ -78,8 +78,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Contributors
 - [Obada Kraishan](https://github.com/obadaKraishan)
 
-## 📸 Screenshots
-### Home Screen
 ![Home Screen](screenshots/home_screen.png)
 
 ### Result Screen
