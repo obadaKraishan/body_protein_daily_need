@@ -11,7 +11,7 @@ A Flutter application to calculate the daily protein needs based on the user's g
 - Dark theme with a clean and modern look.
 
 ## 📸 Screenshots
-<img src="screenshots/appvid" width="400">
+<img src="screenshots/appvid.gif" width="400">
 
 ## 📱 Screens
 ### Home Screen
