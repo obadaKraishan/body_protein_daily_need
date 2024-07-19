@@ -10,6 +10,12 @@ A Flutter application to calculate the daily protein needs based on the user's g
 - Responsive design for various devices.
 - Dark theme with a clean and modern look.
 
+## 📸 Screenshots
+<p>
+<img src="screenshots/home.png" width="300">
+<img src="screenshots/results.png" width="300">
+</p>
+
 ## 📱 Screens
 ### Home Screen
 - **Gender Selection**: Allows users to select their gender (Male/Female).
